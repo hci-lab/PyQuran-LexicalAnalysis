@@ -1,0 +1,2 @@
+(this["webpackJsonpPyQuran-LexicalAnalysis"]=this["webpackJsonpPyQuran-LexicalAnalysis"]||[]).push([[118],{329:function(s,a,i){"use strict";i.r(a),a.default=i.p+"static/media/converterXml-js.74b52290.sh"}}]);
+//# sourceMappingURL=118.206449ec.chunk.js.map
