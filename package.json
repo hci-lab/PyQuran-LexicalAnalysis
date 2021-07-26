@@ -1,6 +1,6 @@
 {
-  "homepage": "https://moroclash.github.io/Visualization-Of-Quran",
-  "name": "visualization_of_quran",
+  "homepage": "http://hci-lab.github.io/PyQuran-LexicalAnalysis",
+  "name": "PyQuran-LexicalAnalysis",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
