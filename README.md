@@ -1,5 +1,4 @@
-# The frequency lexicon of Quranic letters
-# الْمُعْجَم الترددي لِلْحُرُوف فِي الْقُرْآنِ 
+# The frequency lexicon of Quranic letters الْمُعْجَم الترددي لْحُرُوف الْقُرْآنِ 
 
 In this project, we count frequencies of Arabic letters based on any [alphabetical systems](https://hci-lab.github.io/PyQuran-Private/arabic_tools/#alphabetical-systems-definitions) you define. This is a direct GUI application using the library [PyQuran](https://github.com/hci-lab/PyQuran), designed for researchers of Quranic and Arabic studies who do not have programming skills to use [PyQuran](https://github.com/hci-lab/PyQuran).
 
